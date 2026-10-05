@@ -1,4 +1,4 @@
-# PA Studio
+# PA Studio per Windows 10 22H2 o Windows 11 a 64 bit
 ### Converti più PDF in PDF/A-1b con un’unica operazione
 
 **P/A Studio è un’applicazione** per Windows, che semplifica la **conversione multipla di documenti PDF nel formato PDF/A-1b**. Un’interfaccia essenziale permette di aggiungere singoli file, trascinare più documenti o selezionare un’intera cartella, scegliere la destinazione e avviare il lavoro.
@@ -41,6 +41,10 @@ Possibilità di dividere un file per:
 Possibilità di unire più file nell'ordine preferito.
 
 https://github.com/apus-cmd/PA-Studio/releases/download/release/PAStudio-Setup-1.7.3-Windows64.exe
+
+
+**Requisiti e distribuzione**
+Windows 10 22H2 o Windows 11 a 64 bit e .NET Framework 4.8. Il pacchetto include le librerie necessarie alla conversione. Per convertire i documenti non è richiesta una connessione Internet.
 
 Screenshoot:
 
