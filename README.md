@@ -41,3 +41,21 @@ Possibilità di dividere un file per:
 Possibilità di unire più file nell'ordine preferito.
 
 https://github.com/apus-cmd/PA-Studio/releases/download/release/PAStudio-Setup-1.7.3-Windows64.exe
+
+Screenshoot:
+
+<img width="1160" height="800" alt="Anteprima" src="https://github.com/user-attachments/assets/7f1d7fd0-e82a-4b4e-a3e3-a9f74e6f167f" />
+
+_finestra principale di conversione pdf ->pdf/a 1b_
+
+<img width="1120" height="800" alt="Strumenti-PDF" src="https://github.com/user-attachments/assets/9955b733-6deb-4857-8be8-24c581d77e3e" />
+
+_finestra di compressione, split & join di file_
+
+<img width="1080" height="760" alt="Word-PDF" src="https://github.com/user-attachments/assets/9fc8d286-02ef-46f3-b46a-976cb1f5819a" />
+
+_finestra di conversione da Word a pdf e/o pdf/a 1b_
+
+<img width="800" height="620" alt="Novita-esempio" src="https://github.com/user-attachments/assets/88519706-e8c3-4a2f-ab24-4a7eba3d40a9" />
+
+_finestra di comunicazione news e aggiornamenti_
