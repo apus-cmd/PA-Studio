@@ -47,7 +47,9 @@ https://github.com/apus-cmd/PA-Studio/releases/download/release/PAStudio-Setup-1
 Windows 10 22H2 o Windows 11 a 64 bit e .NET Framework 4.8. Il pacchetto include le librerie necessarie alla conversione. Per convertire i documenti non è richiesta una connessione Internet.
 
 
-**Chiave demo necessaria e _richiedibile_ **
+**Chiave demo** necessaria e _richiedibile_ 
+
+
 Screenshoot:
 
 <img width="1160" height="800" alt="Anteprima" src="https://github.com/user-attachments/assets/7f1d7fd0-e82a-4b4e-a3e3-a9f74e6f167f" />
