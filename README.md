@@ -39,3 +39,5 @@ Possibilità di dividere un file per:
 - dimensione massima 
 
 Possibilità di unire più file nell'ordine preferito.
+
+https://github.com/apus-cmd/PA-Studio/releases/download/release/PAStudio-Setup-1.7.3-Windows64.exe
