@@ -40,8 +40,7 @@ Possibilità di dividere un file per:
 
 Possibilità di unire più file nell'ordine preferito.
 
-https://github.com/apus-cmd/PA-Studio/releases/download/release/PAStudio-Setup-1.7.3-Windows64.exe
-
+https://github.com/apus-cmd/PA-Studio/releases/
 
 **Requisiti e distribuzione**
 Windows 10 22H2 o Windows 11 a 64 bit e .NET Framework 4.8. Il pacchetto include le librerie necessarie alla conversione. Per convertire i documenti non è richiesta una connessione Internet.
