@@ -42,7 +42,8 @@ Quando si combinano conversione PDF/A e firma digitale, la conversione precede l
 *Modulo aggiuntivo Browser Sigit*
 
 <img width="1402" height="792" alt="ss_anteprima_firma" src="https://github.com/user-attachments/assets/09a07d95-1157-4928-8a45-d3b77017e0b9" />
-Firma digitale multipla
+
+*Firma digitale multipla*
 
 <img width="657" height="533" alt="ss_firma" src="https://github.com/user-attachments/assets/1823a2f4-9156-4c7e-b1a4-779eeecfbfaf" />
 
