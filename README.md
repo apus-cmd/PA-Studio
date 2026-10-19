@@ -1,6 +1,6 @@
 ## P/A Studio
 ## Strumenti per convertire, comprimere, organizzare e firmare documenti, in un’unica applicazione per Windows.
-P/A Studio permette di lavorare su più documenti dalla stessa finestra: aggiungi i file o un’intera cartella, scegli l’operazione e avvia l’elaborazione. È sviluppato da Stefano e pensato per semplificare le attività quotidiane sui PDF, inclusa la preparazione dei documenti da convertire in PDF/A-1b.
+P/A Studio permette di lavorare su più documenti dalla stessa finestra: aggiungi i file o un’intera cartella, scegli l’operazione e avvia l’elaborazione. È sviluppato e pensato per semplificare le attività quotidiane sui PDF, inclusa la preparazione dei documenti da convertire in PDF/A-1b.
 ## Funzionalità principali
 - **Conversione in PDF/A-1b**: conversione multipla dei PDF, con controlli durante l’elaborazione e segnalazione delle possibili alterazioni del testo.
 - **Compressione dei PDF**: ottimizzazione senza ricompressione delle immagini oppure profili **normale**, **forte** ed **estrema**, con parametri personalizzabili.
